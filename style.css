@@ -25,6 +25,15 @@
     /* border-bottom-style: groove; */
 }
 
+.within-experience-section{
+    margin-bottom: 20px;
+}
+
+.expereince-heading{
+    text-decoration: underline;
+    text-decoration-color: darkgray;
+}
+
 .resume-header{
     padding: 50px;
     background-color: #FFFAA0;
