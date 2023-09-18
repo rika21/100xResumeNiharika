@@ -35,19 +35,16 @@
 }
 
 .resume-header{
-    padding: 50px;
+    padding: 30px;
     background-color: #FFFAA0;
     display: flex;
     column-gap: 20px;
-    position: relative;
     position: sticky;
     top: 0;
+    justify-content: center;
 }
 
 .my-details{
-    position: absolute;
-    left: 15%;
-    top: 20%;
     text-align: center;
 }
 
